@@ -213,9 +213,11 @@ header.masthead h2 {
   background-color: rgba(24, 188, 156, 0.9);
 }
 
+/** remove the hover for the portfolio section images
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
 }
+**/
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
